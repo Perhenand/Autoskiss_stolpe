@@ -1,0 +1,10 @@
+C:\Users\semmim\source\repos\Autoskiss_stolpe\Autoskiss_stolpe\bin\Debug\Autoskiss_stolpe.exe.config
+C:\Users\semmim\source\repos\Autoskiss_stolpe\Autoskiss_stolpe\bin\Debug\Autoskiss_stolpe.exe
+C:\Users\semmim\source\repos\Autoskiss_stolpe\Autoskiss_stolpe\bin\Debug\Autoskiss_stolpe.pdb
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.csprojResolveAssemblyReference.cache
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.Form1.resources
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.Properties.Resources.resources
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.csproj.GenerateResource.cache
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.csproj.CoreCompileInputs.cache
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.exe
+C:\Users\semmim\source\repos\Autoskiss_stolpe\ObjDir\2016i\Autoskiss_stolpe\Autoskiss_stolpe.pdb
